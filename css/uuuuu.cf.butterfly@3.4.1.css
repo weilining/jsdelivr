@@ -36,6 +36,7 @@ img {
 }
 /*彩虹文字*/
 #page-header #site-title,
+#page-header #site-subtitle,
 #post-info .post-title {
   padding-top: 3px;
   background-image: linear-gradient(
