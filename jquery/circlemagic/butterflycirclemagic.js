@@ -1,0 +1,1 @@
+window.onload = function() { $('#page-header').circleMagic({ radius: 35, density: .1, color: 'rgba(255,255,255, .4)', clearOffset: .9 }); }
